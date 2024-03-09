@@ -16,4 +16,4 @@ I've made this static website with the help of following tech-stack. If you're a
 
 ### Project Glimpse
 
-
+![Screenshot_9-3-2024_193420_127 0 0 1](https://github.com/JasvinderKaur77/TinDog-Master/assets/129674937/187b22d2-1579-4ece-b219-74ec2f0f0696)
